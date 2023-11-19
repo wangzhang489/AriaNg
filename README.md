@@ -71,3 +71,7 @@ There are some third-party applications based on AriaNg, so you can use AriaNg i
 
 ## License
 [MIT](https://github.com/mayswind/AriaNg/blob/master/LICENSE)
+
+
+## About
+[MIT](https://github.com/mayswind/AriaNg/blob/master/LICENSE)
